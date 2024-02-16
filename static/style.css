@@ -1,0 +1,14 @@
+.login,
+.img {
+  min-height: 100vh;
+  /* max-width: 50vh; */
+}
+
+.bg-image {
+  /* border-top: 50px; */
+  height:100vh;
+  width: 50%;
+  object-fit:cover
+  
+  
+}
